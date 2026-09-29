@@ -1,3 +1,4 @@
+r 
 # React + Vite + TypeScript Template
 
 This project uses a scalable, feature-based architecture optimized for React and Vite, utilizing TypeScript for strong typing and better developer experience.
